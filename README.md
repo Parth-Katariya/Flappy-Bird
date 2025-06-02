@@ -4,6 +4,5 @@ Here’s a preview of the gameplay:--
 ![Playing_page 1](https://github.com/user-attachments/assets/33bb2c4a-f052-4416-ad37-f565aefa7888)
 ![Playing_page 2](https://github.com/user-attachments/assets/f4391385-05d1-401a-a963-a4e71087a1de)
 ![Playing_page 3](https://github.com/user-attachments/assets/8c98e9f5-f117-4aeb-9f59-6a073181f285)
-![Game_over](https://github.com/user-attachments/assets/4543e275-2c2f-49b5-8e3b-b241d6ea0506)
 ![Game_over 1](https://github.com/user-attachments/assets/15e5b0ad-2fa3-492b-aa9c-0be09dd234c7)
 
